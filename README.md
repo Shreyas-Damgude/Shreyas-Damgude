@@ -1,5 +1,5 @@
 Hi, I’m Shreyas-Damgude
-I’m pursuing BTech in Electrical Engineering in COEP Technological University
+I’m pursuing BTech in Electrical Engineering in COEP Technological University.
 Passionate for practical problem-solving using technology.
 I have Python, JavaScript and Matlab in my technical skillset.
 Developed projects using technical skills that I possess.
